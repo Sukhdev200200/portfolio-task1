@@ -16,10 +16,10 @@ const Navbar = () => {
                    Tirumala Sukhdev
                 </h3>
     <ul className='flex gap-6 mr-3' >               
-    <a href="/"><li className='hover:font-medium cursor-pointer'>Home</li></a>
-    <a href="#About"><li className='hover:font-medium cursor-pointer'>About Me</li></a>
-    <a href="#contact"><li className='hover:font-medium cursor-pointer'>Contact</li></a>
-    <a href={pdf}><li className='hover:font-medium cursor-pointer ' ><button  >Resume</button></li></a>
+    <a href="/"><li className='hover:underline cursor-pointer'>Home</li></a>
+    <a href="#About"><li className='hover:underline cursor-pointer'>About Me</li></a>
+    <a href="#contact"><li className='hover:underline cursor-pointer'>Contact</li></a>
+    <a href={pdf}><li className='hover:underline cursor-pointer ' ><button  >Resume</button></li></a>
     </ul>
     </div>
   </nav>
