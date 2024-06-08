@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from './flow 2.pdf'
+import pdf from './SUKHDEV.pdf'
   
 
  
