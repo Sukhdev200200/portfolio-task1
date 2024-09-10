@@ -12,7 +12,7 @@ const Contact = () => {
   <a href="mailto:triumalasukhdev.54@gmail.com"><AiFillMail/></a>
     </div>
     <div className="linkedin  hover:bg-yellow-200 ">
-  <a href="https://www.linkedin.com/in/tirumala-sukhdev-242375240/"><AiFillLinkedin/></a>
+  <a href="https://www.linkedin.com/in/sukhdev-tirumala-242375240/"><AiFillLinkedin/></a>
     </div>
     <div className="inst  hover:bg-yellow-200">
   <a href="https://www.instagram.com/mr_sukhdev___/"><AiFillInstagram/></a>
